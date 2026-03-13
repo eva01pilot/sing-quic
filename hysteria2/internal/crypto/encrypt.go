@@ -1,0 +1,4 @@
+package crypto
+
+func Encrk
+
